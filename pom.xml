@@ -16,7 +16,7 @@
   </parent>
 
   <artifactId>argouml-en-gb</artifactId>
-  <version>0.35.1-SNAPSHOT</version>
+  <version>0.35.1</version>
 
   <properties>
     <project.build.sourceEncoding>ISO-8859-1</project.build.sourceEncoding>
